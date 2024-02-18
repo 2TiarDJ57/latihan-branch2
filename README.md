@@ -5,7 +5,6 @@ Repository untuk latihan branch menggunakan 2 akun
 - 2TiarDJ57
 - bachtiardwijulianto
 - ardita
-- Tifany
 - gibran
 - dea
 - gea
