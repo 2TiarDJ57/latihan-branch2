@@ -8,3 +8,4 @@ Repository untuk latihan branch menggunakan 2 akun
 - Tifany
 - gibran
 - dea
+- gea
