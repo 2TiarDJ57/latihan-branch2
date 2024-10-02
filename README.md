@@ -9,3 +9,4 @@ Repository untuk latihan branch menggunakan 2 akun
 - dea
 - gea
 - Riko
+- Stanley
