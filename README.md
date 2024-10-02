@@ -8,3 +8,5 @@ Repository untuk latihan branch menggunakan 2 akun
 - gibran
 - dea
 - gea
+- Riko
+- Stanley
